@@ -41,8 +41,10 @@ https://github.com/shenkeYT/blooket-hack/blob/main/Global/Add%20Daily%20Tokens
 
 
 
+
  2. Get Gold.The Get Gold code will let you chose any amount of gold you want in the gold quest gamemode you can even get negative gold but not reccomended!
 https://github.com/shenkeYT/blooket-hack/blob/main/Gold%20Quest/Get%20Gold
+
 
 
 
@@ -51,8 +53,10 @@ https://github.com/shenkeYT/blooket-hack/blob/main/Gold%20Quest/Chest%20ESP
  
 
 
+
  4. Get Crypto.The Get Crypto code is just like the Get gold code but only works in Crypto hack Gamemode.
 https://github.com/shenkeYT/blooket-hack/blob/main/Crypto%20Hack/Get%20Crypto
+
 
 
 
@@ -63,12 +67,14 @@ https://github.com/shenkeYT/blooket-hack/blob/main/Crypto%20Hack/Get%20Other%20U
 
 
 
+
  6. Instant Win.The Instant win code will automatically make you win in the racing mode
 https://github.com/shenkeYT/blooket-hack/blob/main/Racing/Instant%20Win
 
 
 
 # 🌟PLEASE STAR THIS PROJECT🌟
+
 
 
 
