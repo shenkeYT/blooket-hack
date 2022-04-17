@@ -6,17 +6,18 @@ The Blooket Hack
 The Blooket Hack provided by shenke...
 
 
-Why you should use this tool:
+# Why you should use this tool:
 
 
+1. :Always working.
+2. :When the hacks break it usually gets fixed in about 6-8 hours.
+3. :This tool is actively being updated so nothing breaks.
+4. :Used by hundreds of thousands people.
+5. :All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please open a issue here.
 
-:Always working.
-:When the hacks break it usually gets fixed in about 6-8 hours.
-:This tool is actively being updated so nothing breaks.
-:Used by hundreds of thousands people.
-:All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please open a issue here.
+If you are a programmer and want to make your own codes for blooket make sure to check out the blooket library! at 
 
-If you are a programmer and want to make your own codes for blooket make sure to check out the blooket library! at www.schoolcheats.net/blooket
+#  www.schoolcheats.net/blooket
 
 Current Version
 
@@ -30,7 +31,7 @@ If you want a code to be updated ecause it doesent work just post in the issues 
 
 Fixed More Codes!    Fixed Add Daily Tokens!!!!
 
-🌟PLEASE STAR THIS PROJECT🌟
+# 🌟PLEASE STAR THIS PROJECT🌟
 
 Top 6 list of most popular/used codes...
 
@@ -67,22 +68,7 @@ https://github.com/shenkeYT/blooket-hack/blob/main/Crypto%20Hack/Get%20Other%20U
 https://github.com/shenkeYT/blooket-hack/blob/main/Racing/Instant%20Win
 
 
-
-There you go!
-
-All codes still working!
-
-
-
-🌟PLEASE STAR THIS PROJECT🌟
-
-
-#~""ENJOY!"PLEASE STAR"
-
-.........
-
-Updated all of the codes again!
-
+# 🌟PLEASE STAR THIS PROJECT🌟
 
 
 
