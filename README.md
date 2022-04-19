@@ -15,7 +15,7 @@ The Blooket Hack provided by shenke...
 4. :Used by hundreds of thousands people.
 5. :All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please open a issue here.
 
-If you are a programmer and want to make your own codes for blooket make sure to check out the blooket library! at 
+If you are a programmer and want to make your own codes for blooket make sure to check out the blooket library! At
 
 #  www.schoolcheats.net/blooket
 
