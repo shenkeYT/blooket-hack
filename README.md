@@ -73,7 +73,7 @@ https://github.com/shenkeYT/blooket-hack/blob/main/Racing/Instant%20Win
 
 
 
-# 🌟PLEASE STAR THIS PROJECT🌟
+# 🌟PLEASE STAR THIS PROJECT AND SHARE TO ALL OF OUR FRIENDS!🌟 
 
 
 
