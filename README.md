@@ -1,7 +1,7 @@
 # Blooket Hacks
 
 All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please say in discussions! 🌟PLEASE STAR THIS PROJECT🌟
-The original Blooket hack v4.2
+The original Blooket hack v4.2.1
 The Blooket Hack
 The Blooket Hack provided by shenke...
 
@@ -85,4 +85,4 @@ https://github.com/shenkeYT/blooket-hack/blob/main/Racing/Instant%20Win
 
 
 
-codes will be updated later
+codes will be updated tonight!
