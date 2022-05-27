@@ -75,6 +75,7 @@ https://github.com/shenkeYT/blooket-hack/blob/main/Racing/Instant%20Win
 
 # 🌟PLEASE STAR THIS PROJECT AND SHARE TO ALL OF OUR FRIENDS!🌟 
 
+codes updated!
 
 
 
@@ -85,4 +86,3 @@ https://github.com/shenkeYT/blooket-hack/blob/main/Racing/Instant%20Win
 
 
 
-codes will be updated tonight!
