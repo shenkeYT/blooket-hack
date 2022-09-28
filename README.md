@@ -1,95 +1,10 @@
-# Blooket Hacks
+# blooket hacks...
 
-All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please say in discussions! 🌟PLEASE STAR THIS PROJECT🌟
-The original Blooket hack v4.2.1
-The Blooket Hack
-The Blooket Hack provided by shenke...
+## these are fake and stolen:
 
-
-# Why you should use this tool:
-
-
-1. :Always working.
-2. :When the hacks break it usually gets fixed in about 6-8 hours.
-3. :This tool is actively being updated so nothing breaks.
-4. :Used by hundreds of thousands people.
-5. :All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please open a issue here.
-
-If you are a programmer and want to make your own codes for blooket make sure to check out the blooket library! At
-
-#  www.schoolcheats.net/blooket
-
-Current Version
-
-Blooket Hack v4.3.2
-
-
-B̸̙͔̙̦͓̜̑̒̿̍̈̌̾̎͂̄̌̿̓̓̕Ḽ̵̢̼̫̑̐̓̿̈̂͑̈́͗̈́̊͆̽̄͒̎̈́͒̒̕̚͘͝Ò̴̡̺͓͉̺͍̼̘̣̙͍̙̦̣̖͔͛̿́̍̉͝O̴̧̧̻͍̭̜̼̣͚͉͈̱̭͉̙̭̫͖͖̳̘̞͙͉̪̠̎̓̓̾͗̂͂̂̑̀̂͝͠Ķ̸͎͎̬̗̯̝̃̿̿E̶͓͙̮̪̰̘̬͍̗͇̩̿ͅT̶̡͍͙̦̬̬̥̹̰̳̺̲̭͍͉̬͉̗̦͈̓̐̽͜
-
-
-If you want a code to be updated ecause it doesent work just post in the issues section and I will quickly fix it for you!
-
-Fixed More Codes!    Fixed Add Daily Tokens!!!!
-
-# 🌟PLEASE STAR THIS PROJECT🌟
-
-Top 6 list of most popular/used codes...
-
-
- 1. Add Daily Tokens.The ADD Daily Tokens This code  will add 500 tokens which is the max daily limit and add the max xp which is 300 daily limit!
-https://github.com/shenkeYT/blooket-hack/blob/main/Global/Add%20Daily%20Tokens
-
-
-
-
- 2. Get Gold.The Get Gold code will let you chose any amount of gold you want in the gold quest gamemode you can even get negative gold but not reccomended!
-https://github.com/shenkeYT/blooket-hack/blob/main/Gold%20Quest/Get%20Gold
-
-
-
-
- 3. Chest ESP.The Chest ESP Works in multiple gamemodes works best in gold quest once you use this code you wil be able to see what you will get in the chest before even clicking on it so it is very usefull!
-https://github.com/shenkeYT/blooket-hack/blob/main/Gold%20Quest/Chest%20ESP
- 
-
-
-
- 4. Get Crypto.The Get Crypto code is just like the Get gold code but only works in Crypto hack Gamemode.
-https://github.com/shenkeYT/blooket-hack/blob/main/Crypto%20Hack/Get%20Crypto
-
-
-
-
-
- 5.Get other users password.The get other users password code is slightly different to most of the other codes but when you are playing in the crypto hack gamemode and get the hack option in one of the chests use the code and it will tell you your victims password!
-https://github.com/shenkeYT/blooket-hack/blob/main/Crypto%20Hack/Get%20Other%20Users%20Password
-
-
-
-
-
- 6. Instant Win.The Instant win code will automatically make you win in the racing mode
-https://github.com/shenkeYT/blooket-hack/blob/main/Racing/Instant%20Win
-
-
-
-# 🌟PLEASE STAR THIS PROJECT AND SHARE TO ALL OF OUR FRIENDS!🌟 
-
-codes updated!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### read below:
+This user [shenkeYT](https://github.com/shenkeYT) does not make these. These are stolen codes from https://schoolcheats.net 
+<img width="253" alt="image" src="https://user-images.githubusercontent.com/113489420/192832660-400f8e36-c9d3-4d15-a857-03ca7a1d105b.png">
+this bit of code makes it say in console it is from school cheats and it cannot be reuploaded which is clearly being broken, if he had any knowledge of Blooket API he would realize the first part of code 
+![image](https://user-images.githubusercontent.com/113489420/192832894-b4845c75-4e66-481e-91db-287dac12b058.png)
+makes the script expire every 24 hours, it shows a watermark which is not his and just doesn't work because this 7 year old has no coding knowledge,  I will not be saying what code needs to be removed to make these scripts work due to the fact this person will do that and continue to act like they code. Heres [some working hacks](https://github.com/Minesraft2/Blooket-Cheats/tree/main/obfuscated) you should check out and support, I would also like to mention [@therealgliz](https://github.com/therealgliz) is fake so don't use his hacks, thanks for reading this, if this is edited it will show "edited by shenkeYT" so i have this copied in case. [-vantro inc LLC](https://github.com/vantr-o)
