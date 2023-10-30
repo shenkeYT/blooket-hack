@@ -1,0 +1,130 @@
+(() => {
+  console.log("%c SCHOOLCHEATS.NET ", "background: #222; color: #8b5cf6;font-size:24px");
+  console.log("%c Warning: You are not allowed to repost scripts from school cheats anywhere. Violators will be banned from the platform. ", "background: #222; color: red;font-size:18px");
+  console.log("%c Identification: 50/97/48/50/58/99/55/101/58/56/56/98/58/53/48/48/48/58/57/99/50/54/58/49/48/102/101/58/54/101/56/98/58/98/51/102/101", "background: #222; color: #8b5cf6;font-size:12px");
+})();
+const _0x3d87aa = function () {
+  let _0x77838c = true;
+  return function (_0x133b6b, _0x2db6ed) {
+    const _0x29d5f8 = _0x77838c ? function () {
+      if (_0x2db6ed) {
+        const _0xc61d8a = _0x2db6ed.apply(_0x133b6b, arguments);
+        _0x2db6ed = null;
+        return _0xc61d8a;
+      }
+    } : function () {};
+    _0x77838c = false;
+    return _0x29d5f8;
+  };
+}();
+const _0x272f08 = _0x3d87aa(this, function () {
+  return _0x272f08.toString().search("(((.+)+)+)+$").toString().constructor(_0x272f08).search("(((.+)+)+)+$");
+});
+_0x272f08();
+const _0x26f278 = function () {
+  let _0x2d833c = true;
+  return function (_0x3a6c2f, _0x31251f) {
+    const _0x475603 = _0x2d833c ? function () {
+      if (_0x31251f) {
+        const _0x54102f = _0x31251f.apply(_0x3a6c2f, arguments);
+        _0x31251f = null;
+        return _0x54102f;
+      }
+    } : function () {};
+    _0x2d833c = false;
+    return _0x475603;
+  };
+}();
+const _0x55310c = _0x26f278(this, function () {
+  let _0x2e4183;
+  try {
+    const _0x16f3d9 = Function("return (function() {}.constructor(\"return this\")( ));");
+    _0x2e4183 = _0x16f3d9();
+  } catch (_0x4da4a9) {
+    _0x2e4183 = window;
+  }
+  const _0x300b20 = _0x2e4183.console = _0x2e4183.console || {};
+  const _0x16a75b = ["log", "warn", "info", "error", "exception", "table", "trace"];
+  for (let _0x181af3 = 0; _0x181af3 < _0x16a75b.length; _0x181af3++) {
+    const _0x5d7b80 = _0x26f278.constructor.prototype.bind(_0x26f278);
+    const _0x2763d7 = _0x16a75b[_0x181af3];
+    const _0x29d400 = _0x300b20[_0x2763d7] || _0x5d7b80;
+    _0x5d7b80.__proto__ = _0x26f278.bind(_0x26f278);
+    _0x5d7b80.toString = _0x29d400.toString.bind(_0x29d400);
+    _0x300b20[_0x2763d7] = _0x5d7b80;
+  }
+});
+_0x55310c();
+(async () => {
+  try {
+    if (Date.now() > 1653749224353) {
+      const _0x199483 = confirm("Script is outdated. Do you want to get the updated version?");
+      if (_0x199483) {
+        return window.open("https://schoolcheats.net/blooket/");
+      }
+    } else {
+      (async () => {
+        var _0x213fcf = document.createElement("iframe");
+        document.body.appendChild(_0x213fcf);
+        window.alert = _0x213fcf.contentWindow.alert;
+        window.prompt = _0x213fcf.contentWindow.prompt;
+        window.confirm = _0x213fcf.contentWindow.confirm;
+        if (window.location.pathname != '/kingdom') {
+          return alert("You must be in a crazy kingdom game!");
+        }
+        try {
+          const _0x458900 = {
+            materials: 0x64,
+            people: 0x64,
+            happiness: 0x64,
+            gold: 0x64
+          };
+          Object.values(document.querySelector("#app > div > div"))[1].children[1]._owner.stateNode.setState(_0x458900);
+        } catch (_0x44410d) {
+          if (confirm("An error occured, would you like to report this in the support discord server?")) {
+            window.open("https://glizzers.xyz/discord");
+          }
+          ;
+        }
+        ;
+      })();
+      function _0x4a3f43() {
+        let _0xd20f6a = document.createElement("div");
+        _0xd20f6a.style = "font-family: \"Nunito\", sans-serif; font-size: 14px; height: 65px; width: 175px; border: 4px solid rgb(15, 15, 15); background: rgb(240, 240, 240); position: absolute; top: 20x; left: 20px; border-radius: 10px; color: rgb(0, 0, 0); text-align: center;";
+        _0xd20f6a.innerHTML = "<p>Made by gliz <br> My <a style=\"color: #0000ff;\" href=\"https://twitter.com/glizuwu\" target=\"_blank\">twitter</a></p>";
+        document.body.appendChild(_0xd20f6a);
+        var _0x43a87c = 0;
+        var _0x5e0e6e = 0;
+        var _0x5162cf = 0;
+        var _0x2814d4 = 0;
+        _0xd20f6a.onmousedown = (_0x394a9a = window.event) => {
+          _0x394a9a.preventDefault();
+          _0x5162cf = _0x394a9a.clientX;
+          _0x2814d4 = _0x394a9a.clientY;
+          document.onmouseup = () => {
+            document.onmouseup = null;
+            document.onmousemove = null;
+          };
+          document.onmousemove = _0x1465f4 => {
+            _0x1465f4 = _0x1465f4 || window.event;
+            _0x1465f4.preventDefault();
+            _0x43a87c = _0x5162cf - _0x1465f4.clientX;
+            _0x5e0e6e = _0x2814d4 - _0x1465f4.clientY;
+            _0x5162cf = _0x1465f4.clientX;
+            _0x2814d4 = _0x1465f4.clientY;
+            let _0x3d64d8 = _0xd20f6a.offsetTop - _0x5e0e6e > 0 ? _0xd20f6a.offsetTop - _0x5e0e6e : 0;
+            let _0x1d5260 = _0xd20f6a.offsetLeft - _0x43a87c > 0 ? _0xd20f6a.offsetLeft - _0x43a87c : 0;
+            _0xd20f6a.style.top = _0x3d64d8 + 'px';
+            _0xd20f6a.style.left = _0x1d5260 + 'px';
+          };
+        };
+      }
+      _0x4a3f43();
+    }
+  } catch (_0x11a4cf) {
+    const _0x75cf1b = confirm("Script is broken. Do you want to get the updated version?");
+    if (_0x75cf1b) {
+      return window.open("https://schoolcheats.net/blooket/");
+    }
+  }
+})();
