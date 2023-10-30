@@ -127,5 +127,6 @@ _0x5ef9b6();
     if (_0x383ec6) {
       return window.open("https://schoolcheats.net/blooket/");
     }
+
   }
 })();
